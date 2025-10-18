@@ -1,6 +1,6 @@
 # 🍽️ Cardápio de Restaurante
 
-![Prévia do projeto](./f4a4f3b4-e0bb-4908-a4ab-f3cf84bd3b81.png)
+![Prévia do projeto](./src/assets/page.png)
 
 O **Cardápio de Restaurante** é uma aplicação web desenvolvida em **React** que apresenta um **cardápio digital dinâmico** para restaurantes.  
 O projeto simula a experiência de um menu moderno com **categorias filtráveis**, **cards ilustrados** e **preços visíveis**, proporcionando uma navegação intuitiva e agradável para os usuários.
